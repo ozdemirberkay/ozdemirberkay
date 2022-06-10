@@ -7,6 +7,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozdemirberkay&show_icons=true&locale=en&layout=compact" alt="ozdemirberkay"
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozdemirberkay&show_icons=false&locale=en" alt="ozdemirberkay" /></p>
+ /></p>
 
